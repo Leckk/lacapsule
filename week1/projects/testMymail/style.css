@@ -1,0 +1,52 @@
+body{
+  font-family: 'Abel', sans-serif !important;
+}
+.full-width{
+  width: 100%;
+}
+.avatar{
+  padding: 25px;
+  border-radius: 50%;
+}
+.trash{
+  height: 100%;
+  object-fit: contain;
+  padding: 15px;
+}
+.wrapper:hover{
+  color:#fff !important;
+  transition: 250ms;
+  cursor: pointer;
+  background: #024059;
+}
+.wrapper{
+  border: 0.5px solid #FAFFFE;
+  box-shadow: 2px 2px 7px 2px rgba(0,0,0,0.05);
+  color#000;
+}
+
+.padding-default{
+  padding: 8px;
+}
+.inline{
+  display: inline;
+}
+.mt15{
+  margin-top: 15px;
+}
+.wrapper:hover>div>div>.inline{
+  border-radius: 50%;
+  background: #fff;
+  padding: 15px 0;
+  transition: 750ms;
+  margin-left: 15px;
+}
+.wrapper>div>div>.inline{
+  transition: 250ms;
+}
+.absolute-center{
+  /* top: 50%;
+  left: 50%;
+  transform: translate3d(-50%, -50%, 0);
+  position: absolute;
+} */

@@ -1,0 +1,105 @@
+.full-width{
+    width: 100%;
+}
+.box{
+    margin-bottom: 8.333333%;
+}
+.border-box{
+    border: 1px solid lightgray;
+    padding: 20px;
+
+}
+.margin-left-default{
+    margin-left: 15px;
+}
+.bg-grey{
+    background: grey;
+}
+.no-padding{
+    padding: 0;
+}
+.logo{
+    width: 75px;
+}
+.navbar-brand{
+    color: #fff !important;
+    font-size: 16px;
+}
+.header{
+    background-image: url('bike-background.jpg');
+    height: 200px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+    margin-bottom: 25px;
+}
+.bg-grey{
+    background-color: #161e2a;
+}
+.ariane{
+    padding: 15px;
+    margin: 25px 0;
+    border-radius: 5px;
+    text-align: left;
+    color: #fff;
+}
+.margin-left{
+    margin-left: 25px;
+    font-weight: 200;
+}
+.input-width{
+    max-width: 50%;
+    margin-right: 5px;
+    height: 38px;
+}
+.align-left{
+    text-align: left;
+}
+.margin-bottom{
+    margin-bottom: 15px;
+}
+.line-info{
+    border-bottom: 1px solid #666;
+    margin-bottom: 15px;
+    padding-bottom: 15px;
+}
+h6{
+    font-weight: 200;
+}
+.relative{
+    position: relative;
+}
+.absolute{
+    position: absolute;
+}
+.shop-img{
+    height: 120px;
+    object-fit: contain;
+}
+.align-right{
+    text-align: right;
+}
+.paddingBT{
+    padding: 15px 0;
+}
+.border-bottom{
+    border-bottom: 1px solid #ccc;
+}
+.border-top{
+    border-top: 1px solid #ccc;
+}
+.margin-default{
+    margin: 15px;
+}
+.abs-right{
+    right: 0;
+}
+.marginBT{
+    margin: 15px 0;
+}
+.paddingBT{
+    padding: 15px 0;
+}
+.mgl{
+    margin: 0 25px;
+}
